@@ -1,12 +1,12 @@
 <div align="center">
     <a href="#" target="_blank">
-        <img src="https://github.com/denoland/deno/blob/main/docs/images/deno3.png" alt="Deno Logo" width="140" height="140"></img>
+        <img src="https://commons.wikimedia.org/wiki/File:V8_JavaScript_engine_logo_2.svg" alt="V8 Logo" width="140" height="140"></img>
     </a>
 </div>
 
-<h1 align="center">DENO ISOLATES</h1>
+<h1 align="center">V8 ISOLATES</h1>
 
 <p align="center">
-:clown_face:  Just messing around with Deno Isolates  :clown_face:
+:clown_face:  Just messing around with V8 Isolates  :clown_face:
 </p>
 
